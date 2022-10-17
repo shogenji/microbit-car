@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "microbit-car": "github:shogenji/microbit-car#25e5f319c38980f85441136ecb7416727b2b193d"
     },
     "files": [
         "main.blocks",
